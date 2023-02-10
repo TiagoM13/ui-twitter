@@ -8,9 +8,7 @@
 
 ## 🎯 Demostração da aplicação:
 
-  <video>
-    <source src="/public/Twitter UI.mp4" type="video/mp4" />
-  </video>
+  <img src="/public/Twitter%20UI.gif" alt="Desmotração da aplicação" >
 
 ## ⚙️ Tecnologias utilizadas:
     
